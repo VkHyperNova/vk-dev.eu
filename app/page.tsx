@@ -58,7 +58,7 @@ export default function Home() {
       <header className="header">
         <div className="wrap">
           <a href="#top" className="logo">
-            <img src="/logo-white.png" alt="VK Dev" />
+            <img src="/logo-white.svg" alt="VK Dev" />
           </a>
           <nav className="nav">
             <a href="#services" className="hide-sm">
